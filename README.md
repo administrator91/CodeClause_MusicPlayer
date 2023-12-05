@@ -15,7 +15,7 @@ Welcome to the Python Music Player - a sleek, user-friendly music player crafted
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/administrator91/CodeClause_MusicPlayer.git
+   git clone https://github.com/administrator91/CodeClause_MusicPlayer.git
    ```
 
 2. **Run the mp3Player:**
